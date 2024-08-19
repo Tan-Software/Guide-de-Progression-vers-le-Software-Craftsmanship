@@ -37,17 +37,20 @@ Ce guide vous propose un parcours structuré pour devenir un **Software Craftsma
 ## 3. Conception et Architecture Logicielle
 
 ### Livres Clés
-1. **[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Complexity-Software/dp/0321125215)**  
-   Explorez les concepts du DDD (Domain-Driven Design) pour structurer vos applications autour du domaine métier.
+1. **[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Complexity-Software/dp/0321125215)** (Le Livre Rouge)  
+   Le classique de Eric Evans qui explore le Domain-Driven Design (DDD) et comment structurer vos logiciels autour des besoins métier.
 
-2. **[Implementing Domain-Driven Design (IDDD)](https://www.amazon.fr/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)**  
-   Ce livre approfondit les concepts du DDD et propose des solutions pratiques pour les implémenter dans des projets réels.
+2. **[Implementing Domain-Driven Design](https://www.amazon.fr/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)** (Le Livre Jaune)  
+   Un guide pratique pour appliquer les concepts du DDD de manière concrète dans vos projets.
 
 3. **[Designing Data-Intensive Applications](https://www.amazon.fr/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)**  
    Apprenez à concevoir des applications évolutives, résilientes et performantes en comprenant les architectures des systèmes de données.
 
 4. **[Building Evolutionary Architectures: Support Constant Change](https://www.amazon.fr/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360)**  
    Ce livre vous guide dans la conception d'architectures capables de s'adapter aux changements constants, un aspect crucial dans les environnements modernes.
+
+5. **[Ports and Adapters: An Introduction to Hexagonal Architecture](https://www.amazon.fr/Hexagonal-Architecture-Percy-Ezilon/dp/0596008474)**  
+   Une introduction à l'architecture hexagonale (ou Ports and Adapters), qui vous aide à concevoir des applications indépendantes des technologies et interfaces externes.
 
 ### Ressources en Ligne
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)** : Une ressource complète pour comprendre la conception de systèmes à grande échelle.
