@@ -49,9 +49,6 @@ Ce guide vous propose un parcours structuré pour devenir un **Software Craftsma
 4. **[Building Evolutionary Architectures: Support Constant Change](https://www.amazon.fr/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360)**  
    Ce livre vous guide dans la conception d'architectures capables de s'adapter aux changements constants, un aspect crucial dans les environnements modernes.
 
-5. **[Ports and Adapters: An Introduction to Hexagonal Architecture](https://www.amazon.fr/Hexagonal-Architecture-Percy-Ezilon/dp/0596008474)**  
-   Une introduction à l'architecture hexagonale (ou Ports and Adapters), qui vous aide à concevoir des applications indépendantes des technologies et interfaces externes.
-
 ### Ressources en Ligne
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)** : Une ressource complète pour comprendre la conception de systèmes à grande échelle.
 
