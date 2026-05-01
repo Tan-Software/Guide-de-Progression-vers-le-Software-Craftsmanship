@@ -1,5 +1,8 @@
 # Guide de Progression vers le Software Craftsmanship
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Lang](https://img.shields.io/badge/Lang-Français-005EB8.svg)](#) [![Topic](https://img.shields.io/badge/Topic-Software%20Craftsmanship-brightgreen.svg)](#) [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://www.markdownguide.org/)
+
+
 Ce guide vous propose un parcours structuré pour devenir un **Software Craftsman**. Vous apprendrez à écrire du code de qualité, à concevoir des architectures robustes, et à adopter une approche DevOps pour le déploiement et la maintenance de vos applications. L'idée est d'aborder chaque compétence de manière séquentielle et progressive, tout en explorant les liens entre les différents domaines.
 
 ---
@@ -76,3 +79,22 @@ Si vous souhaitez contribuer, que ce soit pour ajouter de nouvelles ressources, 
 Vous pouvez soumettre vos contributions via des pull requests sur le dépôt GitHub associé à ce guide. Toute aide est la bienvenue pour faire de ce guide une ressource encore plus précieuse pour la communauté des développeurs.
 
 ---
+
+
+## Pour aller plus loin
+
+- [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+- [Principes SOLID — Robert C. Martin](https://en.wikipedia.org/wiki/SOLID)
+- [Refactoring Guru — Design patterns et refactoring](https://refactoring.guru/)
+- [The Twelve-Factor App](https://12factor.net/) — applications modernes
+- [DORA — State of DevOps reports](https://dora.dev/research/)
+- Chaîne YouTube de [Continuous Delivery (Dave Farley)](https://www.youtube.com/@ContinuousDelivery)
+
+## Licence
+
+Ce guide est distribué sous licence [MIT](LICENSE).
+
+## Auteur
+
+**Tansoftware - Tanguy Chénier** · [LinkedIn](https://www.linkedin.com/in/tanguy-chenier) · [Tan-Software](https://github.com/Tan-Software) · [Compte personnel (derniers outils)](https://github.com/tanguychenier) · [tansoftware.com](https://www.tansoftware.com)
+
